@@ -1,0 +1,1 @@
+This repository is used to hold the comments for articles on [blraaz.me](https://blraaz.me), via Github Issues. This takes advantage of the [utterances](https://utteranc.es) app. Check out the Issues tab, where there's a corresponding issue for each post on the blog.
